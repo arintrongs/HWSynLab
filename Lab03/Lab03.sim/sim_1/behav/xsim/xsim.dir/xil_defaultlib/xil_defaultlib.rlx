@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/HWSynLab/Lab03/Lab03.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/HWSynLab/Lab03/Lab03.srcs/sim_1/new/test_bcd.v,1549811705,verilog,,,,test_bcd,,,,,,,,
+C:/HWSynLab/Lab03/Lab03.srcs/sim_1/new/test_system.v,1549816005,verilog,,,,test_system,,,,,,,,
+C:/HWSynLab/Lab03/Lab03.srcs/sources_1/imports/new/clockDiv.v,1549042956,verilog,,C:/HWSynLab/Lab03/Lab03.srcs/sources_1/imports/new/displaySeg.v,,clockDiv,,,,,,,,
+C:/HWSynLab/Lab03/Lab03.srcs/sources_1/imports/new/displaySeg.v,1549082268,verilog,,C:/HWSynLab/Lab03/Lab03.srcs/sources_1/imports/new/hexConversion.v,,displaySeg,,,,,,,,
+C:/HWSynLab/Lab03/Lab03.srcs/sources_1/imports/new/hexConversion.v,1549082134,verilog,,C:/HWSynLab/Lab03/Lab03.srcs/sources_1/new/system.v,,hexConversion,,,,,,,,
+C:/HWSynLab/Lab03/Lab03.srcs/sources_1/new/bcd.v,1549814326,verilog,,C:/HWSynLab/Lab03/Lab03.srcs/sim_1/new/test_bcd.v,,Bcd,,,,,,,,
+C:/HWSynLab/Lab03/Lab03.srcs/sources_1/new/system.v,1549816176,verilog,,C:/HWSynLab/Lab03/Lab03.srcs/sim_1/new/test_system.v,,system,,,,,,,,

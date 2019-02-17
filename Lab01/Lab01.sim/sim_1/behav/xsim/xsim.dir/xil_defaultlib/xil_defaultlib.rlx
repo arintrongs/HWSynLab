@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/HWSynLab/Lab01/Lab01.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/HWSynLab/Lab01/Lab01.srcs/sim_1/new/Tester.v,1548999238,verilog,,,,Tester,,,,,,,,
+C:/HWSynLab/Lab01/Lab01.srcs/sim_1/new/testDFlipFlop.v,1549006058,verilog,,,,testDFlipFlop,,,,,,,,
+C:/HWSynLab/Lab01/Lab01.srcs/sim_1/new/testShiftReg.v,1549030355,verilog,,,,testShiftReg,,,,,,,,
+C:/HWSynLab/Lab01/Lab01.srcs/sources_1/new/DFlipFlop.v,1549006371,verilog,,C:/HWSynLab/Lab01/Lab01.srcs/sim_1/new/testDFlipFlop.v,,DFlipFlop,,,,,,,,
+C:/HWSynLab/Lab01/Lab01.srcs/sources_1/new/FullAdder.v,1548999646,verilog,,C:/HWSynLab/Lab01/Lab01.srcs/sim_1/new/Tester.v,,FullAdder,,,,,,,,
+C:/HWSynLab/Lab01/Lab01.srcs/sources_1/new/shiftReg.v,1549030291,verilog,,C:/HWSynLab/Lab01/Lab01.srcs/sim_1/new/testShiftReg.v,,shiftA;shiftB;shiftReg,,,,,,,,
