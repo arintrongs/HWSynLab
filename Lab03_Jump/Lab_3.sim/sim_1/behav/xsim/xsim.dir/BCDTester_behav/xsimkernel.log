@@ -1,0 +1,7 @@
+Running: xsim.dir/BCDTester_behav/xsimk.exe -simmode gui -wdb BCDTester_behav.wdb -simrunnum 0 -socket 52640
+Design successfully loaded
+Design Loading Memory Usage: 5000 KB (Peak: 5000 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 5676 KB (Peak: 5676 KB)
+Simulation CPU Usage: 0 ms
